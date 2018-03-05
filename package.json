@@ -9,6 +9,9 @@
   "keywords": [
     "sourcemap"
   ],
+  "repository": {
+    "url": "git@github.com:meixg/unchanged-file-sourcemap-generator.git"
+  },
   "author": "meixg",
   "license": "MIT",
   "dependencies": {
