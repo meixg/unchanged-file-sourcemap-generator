@@ -4,7 +4,7 @@ generate sourcemap from an unchanged js file.
 
 ## why
 
-Sometimes we just want to combine some js files into one, and generate a sourcemap. In this situation, some js file my not need to be compiled by babel or some other compiler. Sourcemaps for these files need to be generated on our own.
+Sometimes we just want to combine some js files into one, and generate a sourcemap. In this situation, some js file may not need to be compiled by babel or some other compiler. Sourcemaps for these files need to be generated on our own.
 
 Fortunately, this module can do this for you.
 
