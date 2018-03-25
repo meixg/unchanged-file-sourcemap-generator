@@ -12,7 +12,7 @@ const SourceMapGenerator = require('source-map').SourceMapGenerator;
  *
  * @param {string} source source code string
  * @param {Object} options options
- * @param {Object} options.filename filename
+ * @param {Object} options.file filename
  * @param {Object} options.sourceRoot sourceRoot
  * @return {string}
  */

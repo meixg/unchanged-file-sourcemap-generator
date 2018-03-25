@@ -1,6 +1,6 @@
 {
   "name": "unchanged-file-sourcemap-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "generate sourecemap from an unchanged js file.",
   "main": "index.js",
   "scripts": {

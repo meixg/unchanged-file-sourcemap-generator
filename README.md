@@ -14,7 +14,7 @@ Fortunately, this module can do this for you.
 const generate = require('unchanged-file-sourcemap-generator');
 
 const map = generate(sourceString, {
-    filename: 'index.js',
+    file: 'index.js',
     sourceRoot: ''
 });
 ```
